@@ -1,0 +1,11 @@
+https://github.com/JuliaPy/pyjulia/archive/master.zip#egg=julia
+
+# IPython 7.0 is required for using pyjulia without segfault during
+# tab completion.  It is currently in development:
+# https://github.com/ipython/ipython/milestone/43
+https://github.com/ipython/ipython/archive/master.zip#egg=ipython
+
+numpy
+pandas
+julia
+jupyter

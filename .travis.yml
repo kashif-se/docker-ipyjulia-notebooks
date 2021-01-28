@@ -1,0 +1,12 @@
+language: generic
+
+sudo: required
+
+services:
+  - docker
+
+script:
+  - docker image build -t ipyjulia-notebooks .
+
+notifications:
+  email: true
