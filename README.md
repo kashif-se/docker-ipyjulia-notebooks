@@ -1,6 +1,7 @@
 # Julia, PyJulia, IPython, IJulia and Jupyter Notebooks in Docker
 
 [![Build Status](https://travis-ci.com/kashif-se/docker-ipyjulia-notebooks.svg?branch=main)](https://travis-ci.com/kashif-se/docker-ipyjulia-notebooks)
+![Jupyter Notebooks](./images/screen.png)
 
 This repository is the dockerized environment contains following set of tools:
 1. Python (3.7)
